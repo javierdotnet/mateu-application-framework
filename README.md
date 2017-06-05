@@ -29,7 +29,7 @@ Mateu-case is a CASE tool.
 It allows you to define your application without writing code.
 Using a web interface you can define your model objects and your app components. 
 
-## Mateu's way of build apps
+## Mateu's way of building apps
 The best way to create your own mateu app is to use one of the provided maven archetypes and, from there, modify the code to build your own app.
 
 You should first decide which type of application you want to create:
