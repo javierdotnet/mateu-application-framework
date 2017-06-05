@@ -3,6 +3,8 @@ This is Mateu's application framework.
 
 It consists of a serie of frameworks which, together, will allow you to easily build your bussiness application.
 
+By using java inheritance and polymorfism, you can easily extend existing aplications.
+
 They are mainly for java users, though I plan to migrate this project to .Net.
 
 ## Map
@@ -35,7 +37,9 @@ Mateu-case is a CASE tool.
 
 It allows you to define your application without writing code.
 
-Using a web interface you can define your model objects and your app components. 
+Using a web interface you can define your model objects and your app components, and the application will be immediately available online.
+
+I have to check costs and everything, but this will be useful for easily create little applications.
 
 ## Mateu's way of building apps
 The best way to create your own mateu app is to use one of the provided maven archetypes and, from there, modify the code to build your own app.
