@@ -5,7 +5,7 @@ They are mainly for java users, though I plan to migrate this project to .Net.
 
 ## Map
 
-Mateu's application fremwork is compund of:
+Mateu's application framework is compund of:
 
 - mateu-ui
 - mateu-rpc
@@ -47,4 +47,4 @@ At last, if you want to generate your mateu-ui components from your SQL tables, 
 
 Yes, I plan to create a .Net port of this framework.
 The same principles, the same ideas but in .Net.
-First I will finish the java side ;)
+First I will finish the java side, though ;)
