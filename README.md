@@ -3,7 +3,7 @@ This is Mateu's application framework.
 
 It consists of a serie of frameworks which, together, will allow you to easily build your bussiness application.
 
-By using java inheritance and polymorfism, you can easily extend existing aplications.
+By using java inheritance and polymorfism, you can easily extend existing aplications (e.g.: extend an ERP to create vertical solutions lke a PMS or a CRS).
 
 They are mainly for java users, though I plan to migrate this project to .Net.
 
