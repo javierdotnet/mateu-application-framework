@@ -55,6 +55,13 @@ If you want to build a client-side app and you want to communicate with server-s
 
 At last, if you want to generate your mateu-ui components from your SQL tables, JPA entities or java classes.
 
+
+## Maven and Gradle
+I extensively use Maven and Gradle in these projects to avoid writing plugins for eclipse, idea or whatever.
+
+It provides me a neutral way of adding the extra point to my projects, like creating templates(archetypes) or adding actions like run, deploy etc in an ide agnostic way.
+
+
 ## Mateu .Net
 
 Yes, I plan to create a .Net port of this framework.
